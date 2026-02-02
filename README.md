@@ -31,7 +31,7 @@ Building at the intersection of AI and finance. Interested in:
 - [AI WordPress Automation](https://github.com/Rime504/Ai_WordPress_Automation) - Generate SEO blog posts in seconds
 - [Trading Algorithm](https://github.com/Rime504/Trading_Algo) - Live trading system with IB integration
 - [Blackledger](https://github.com/Rime504/Blackledger) - Enterprise financial platform
-
+- https://github.com/Rime504/bitcoin-testnet-wallet
 💼 Open to remote work
 📫 rimerizha@gmail.com
 
