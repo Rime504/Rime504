@@ -6,4 +6,4 @@ Rime
 
 **solana-foundation/pay #511:** external approver for headless agent signing
 
-** CS (AI/ML) @ Goldsmiths, University of London **
+CS (AI/ML) @ Goldsmiths, University of London 
