@@ -5,4 +5,5 @@ Rime
 **Atlas Rail**: signed spending mandates, a policy gate before signing, and receipts anchored on Solana.
 
 **solana-foundation/pay #511:** external approver for headless agent signing
-CS (AI/ML) @ Goldsmiths, University of London 
+
+** CS (AI/ML) @ Goldsmiths, University of London **
